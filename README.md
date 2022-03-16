@@ -1,7 +1,7 @@
 # WhoDoneIt_MixItUp
 A small project to help manage a 'Who Done It' game in a twitch chat using mix it up.
 
-This project works by placing the release folder into the Mix It Up install directory under a new folder called 'ExternalApp'. The release folder will need to be named to 'WhoDoneIt'.
+This project works by placing the netcoreapp3.0 folder from the release folder into the Mix It Up install directory under a new folder called 'ExternalApp'. The netcoreapp3.0 folder will need to be renamed to 'WhoDoneIt'.
 From there commands can be made to call the application via the 'External Program' action in Mix It Up. Examples of the commands are included with the project.
 
 The program has 3 actions it can perform:
