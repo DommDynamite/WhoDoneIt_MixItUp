@@ -19,4 +19,20 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="MixItUpCommands\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="MixItUpCommands\Guess Check.miucommand">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MixItUpCommands\New Guess.miucommand">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MixItUpCommands\Reset Guesses.miucommand">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

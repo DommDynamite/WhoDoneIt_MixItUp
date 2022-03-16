@@ -20,3 +20,6 @@ C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\obj\Release\netcore
 C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\obj\Release\netcoreapp3.0\WhoDoneIt.dll
 C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\obj\Release\netcoreapp3.0\WhoDoneIt.pdb
 C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\bin\Release\netcoreapp3.0\Data\Archives\TheseAreTheArchives.txt
+C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\bin\Release\netcoreapp3.0\MixItUpCommands\Guess Check.miucommand
+C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\bin\Release\netcoreapp3.0\MixItUpCommands\New Guess.miucommand
+C:\Users\jorda\source\repos\WhoDoneIt_MixItUp\TestMixItUpApp\bin\Release\netcoreapp3.0\MixItUpCommands\Reset Guesses.miucommand
